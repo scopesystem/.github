@@ -3,12 +3,9 @@ SCOPE is a Computer Aided Dispatch (CAD) and Mobile Data Terminal (MDT) system d
 
 ## Table of Contents
 ---
-1. [Overview]  
-2. [Getting Started]  
-3. [Values and Priorities] 
-4. [Project Structure]  
-5. [Technology Stack]  
-6. [Contributing]
+1. [Goals and Objectives]
+2. [User Roles]
+3. [Values and priorititys]
 ---
 
 ### 1. Goals and Objectives
@@ -33,38 +30,29 @@ Auditability: Full logging of activities for administrative review.
 This project is designed with the following principles in mind:
 
 ✅ Open and Accessible
-100% free and open-source stack.
-
-No commercial or OS-dependent software required.
+- 100% free and open-source stack.
+- No commercial or OS-dependent software required.
 
 🛠 Cross-Platform Compatibility
-Fully compatible with Windows, macOS, and Linux.
-
-Uses only cross-platform libraries and tools.
+- Fully compatible with Windows, macOS, and Linux.
+- Uses only cross-platform libraries and tools.
 
 🐳 Containerization with Docker
-Includes a ready-to-use docker-compose.yml for PostgreSQL.
-
-Encourages isolated, reproducible environments.
+- Includes a ready-to-use docker-compose.yml for PostgreSQL.
+- Encourages isolated, reproducible environments.
 
 🗃 SQL-Based Storage (PostgreSQL)
-Relies on PostgreSQL for robust, production-ready SQL storage.
-
-Fully supported by Entity Framework Core using the Npgsql provider.
-
-Easy to host, extend, and scale.
+- Relies on PostgreSQL for robust, production-ready SQL storage.
+- Fully supported by Entity Framework Core using the Npgsql provider.
+- Easy to host, extend, and scale.
 
 🧪 Testability and Maintainability
-Repository pattern encourages clean separation of concerns.
-
-Easily testable with mockable interfaces and minimal coupling.
+- Repository pattern encourages clean separation of concerns.
+- Easily testable with mockable interfaces and minimal coupling.
 
 ♻️ Scalability
-Structured to support future expansion:
-
-API layer for endpoints.
-
-Repository layer for data access.
-
-Models layer for domain entities.
+- Structured to support future expansion:
+- API layer for endpoints.
+- Repository layer for data access.
+- Models layer for domain entities.
 
