@@ -3,12 +3,12 @@ SCOPE is a Computer Aided Dispatch (CAD) and Mobile Data Terminal (MDT) system d
 
 ## Table of Contents
 ---
-1. [Overview](#1-overview)  
-2. [Getting Started](#2-getting-started)  
-3. [Values and Priorities](#3-values-and-priorities)  
-4. [Project Structure](#4-project-structure)  
-5. [Technology Stack](#5-technology-stack)  
-6. [Contributing](#6-contributing)
+1. [Overview]  
+2. [Getting Started]  
+3. [Values and Priorities] 
+4. [Project Structure]  
+5. [Technology Stack]  
+6. [Contributing]
 ---
 
 ### 1. Goals and Objectives
