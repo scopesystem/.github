@@ -1,3 +1,9 @@
+
+
+![download_2](https://github.com/user-attachments/assets/a5b4599e-b32b-41ec-b593-33ea54a87303)
+
+
+
 # SCOPE (System for Coordinated Operations & Police Engagement)
 SCOPE is a Computer Aided Dispatch (CAD) and Mobile Data Terminal (MDT) system designed to streamline and coordinate law enforcement operations in real-time. It is built for use in roleplay environments like FiveM, but is scalable for real-world simulation and training scenarios. The system provides dispatchers and officers with a unified interface for managing calls, units, reports, and live data efficiently.
 
